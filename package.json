@@ -1,0 +1,22 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "simply-djs": "^1.1.171",
+    "discord-buttons": "^4.0.0",
+    "weky": "^3.1.5",
+    "discord.js-akinator": "^2.1.0",
+    "leaf-utils": "^1.0.1"
+  }
+}
